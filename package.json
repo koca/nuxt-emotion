@@ -1,0 +1,28 @@
+{
+  "name": "@mergims/nuxt-emotion",
+  "version": "1.0.0",
+  "description": "Emotion for Nuxt, with Server-Side-Rendered Styled Components",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/cache": "^10.0.19",
+    "@emotion/serialize": "^0.11.14",
+    "@emotion/utils": "^0.11.2",
+    "clsx": "^1.0.4",
+    "create-emotion-server": "^10.0.14",
+    "emotion": "^10.0.23"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^0.5.3",
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@types/node": "^12.12.14",
+    "@typescript-eslint/eslint-plugin": "^2.9.0",
+    "@typescript-eslint/parser": "^2.9.0",
+    "eslint": "^6.7.1",
+    "eslint-config-vue": "^2.0.2",
+    "eslint-plugin-vue": "^6.0.1",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2",
+    "vue-tsx-support": "^2.3.2"
+  }
+}
